@@ -131,10 +131,10 @@ python main.py
 
 ## Contributors
 
-- **Primary Developer**: Researcher in Machine Learning  
+- **Primary Developer**:  Archana, Bitanuka, Ram Vikas, Rahul Pandey. 
 - **Acknowledgments**: Hugging Face, PyTorch, Cardiff NLP
 
-Team members- Archana, Bitanuka, Ram Vikas, Rahul Pandey.
+
 
 ---
 
