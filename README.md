@@ -134,7 +134,7 @@ python main.py
 - **Primary Developer**: Researcher in Machine Learning  
 - **Acknowledgments**: Hugging Face, PyTorch, Cardiff NLP
 
-For inquiries or issues, please contact [your_email@example.com].
+Team members- Archana, Bitanuka, Ram Vikas, Rahul Pandey.
 
 ---
 
